@@ -48,7 +48,7 @@ Download from [here]()
 
 ## Python
 
-- Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file.
+- Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file with PIP.
 - Execute [main.py]() in the same directory where the target images are stored.
 
 
