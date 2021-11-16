@@ -51,6 +51,14 @@ Download from [here]()
 - Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file with PIP.
 - Execute [main.py]() in the same directory where the target images are stored.
 
+# Performance Comparison
+
+In order to provide insight as to what kind of performance can be expected from both variations of the Multispectral Sorting Tool, the following data was collected and processed for visualisation.
+
+## Raw Data
+
+## Data Visualisation
+
 
 # License
 
