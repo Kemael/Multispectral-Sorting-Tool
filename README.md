@@ -18,7 +18,7 @@ The .NET variant relies on the [MetaData Extractor Library](https://github.com/d
 
 ## Python 🐍
 
-The Python variant relies on the [Python XMP Toolkit](https://python-xmp-toolkit.readthedocs.io/en/latest/). Because of this dependency however, the Python tool is not yet officially supported on the Windows platform. 
+The Python variant relies on the [Python XMP Toolkit](https://python-xmp-toolkit.readthedocs.io/en/latest/). Because of this dependency however, the Python tool is not yet officially supported on Windows. 
 
 ## Recommended Variant
 
