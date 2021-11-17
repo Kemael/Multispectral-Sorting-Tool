@@ -14,7 +14,7 @@ The Multispectral Sorting Tool has been built in two flavours, one with Python a
 
 ## .NET (6.0) <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg' alt="dotnetcore" width="30" height="30"/>
 
-The .NET variant relies on the [MetaData Extractor Library](https://github.com/drewnoakes/metadata-extractor), which license can be found [here](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE). It was originally developed in Java and later ported to .NET C# using sharpen. This libary is implemented as a Nuget package.
+The .NET variant relies on the [MetaData Extractor Library](https://github.com/drewnoakes/metadata-extractor) version 2.7.1, which license can be found [here](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE). It was originally developed in Java and later ported to .NET C# using sharpen. This libary is implemented as a Nuget package.
 
 ## Python 🐍
 
