@@ -48,11 +48,8 @@ Download from [here]()
 
 ## Python 🐍
 
-- Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file with the PIP command:
-`pip install -r /path/to/requirements.txt`
- or install it manually with:
-`pip install python-xmp-toolkit`
-- Install the Exempi package for your distribution. More information can be found on the [Python XMP Toolkit documentation page](https://python-xmp-toolkit.readthedocs.io/en/latest/)
+- Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file with the PIP command `pip install -r /path/to/requirements.txt` or install it manually with `pip install python-xmp-toolkit`
+- Install the Exempi package for your distribution. More information on how to acquire the package can be found on the [Python XMP Toolkit documentation page](https://python-xmp-toolkit.readthedocs.io/en/latest/)
 - Execute [main.py]() in the same directory where the target images are stored.
 
 # Performance Comparison
