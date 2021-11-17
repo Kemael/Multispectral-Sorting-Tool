@@ -12,7 +12,7 @@ The automation of this business process has been tailored and tested on dozens o
 
 The Multispectral Sorting Tool has been built in two flavours, one with Python and the other with .NET (6.0). This was done in order to offer a reasonable level of flexibility that may be required when using external Geogrophical Information System tools such as QGIS, ArcGIS, GlobalMapper, etc.
 
-## .NET (6.0) <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg' alt="dotnetcore" width="40" height="40"/>
+## .NET (6.0) <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg' alt="dotnetcore" width="30" height="30"/>
 
 The .NET variant relies on the [MetaData Extractor Library](https://github.com/drewnoakes/metadata-extractor), which license can be found [here](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE). It was originally developed in Java and later ported to .NET C# using sharpen. This libary is implemented as a Nuget package.
 
@@ -30,7 +30,7 @@ Python can still be used for specific use cases such as integration in already e
 
 It is first required that all images be transferred in the same directory, preferably a new one. <strong>Images from subdirectories will be ignored.</strong> 
 
-## .NET (6.0)
+## .NET (6.0) <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg' alt="dotnetcore" width="30" height="30"/>
 
 Simply download the appropriate compiled executable from the [compiled]() folder or from the following list and place said executable in the same directory where the target images are stored.
 
@@ -46,9 +46,13 @@ Download from [here]()
 
 Download from [here]()
 
-## Python
+## Python 🐍
 
-- Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file with PIP.
+- Import the required Python XMP Toolkit module and its dependencies using the [requirements.txt]() file with the PIP command:
+`pip install -r /path/to/requirements.txt`
+ or install it manually with:
+`pip install python-xmp-toolkit`
+- Install the Exempi package for your distribution. More information can be found on the [Python XMP Toolkit documentation page](https://python-xmp-toolkit.readthedocs.io/en/latest/)
 - Execute [main.py]() in the same directory where the target images are stored.
 
 # Performance Comparison
