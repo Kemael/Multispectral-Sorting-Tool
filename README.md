@@ -22,7 +22,7 @@ The Python variant relies on the [Python XMP Toolkit](https://python-xmp-toolkit
 
 ## Recommended Variant
 
-The recommended variant to use is <strong>.NET</strong>. Indeed, it is substantially more performant as a compiled langauge and is compatible with all major platforms such as Windows and UNIX based operating systems. 
+The recommended variant to use is <strong>.NET</strong>. Indeed, it is substantially more performant as a compiled language and is compatible with all major platforms such as Windows and UNIX based operating systems. 
 
 Python can still be used for specific use cases such as integration in already existing Python-based worflow/business processes.
 
