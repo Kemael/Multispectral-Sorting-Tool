@@ -1,5 +1,5 @@
 ![MST_Logo](https://user-images.githubusercontent.com/47387377/142050108-d22dc717-7b1a-4f89-8d11-24e18eb3360d.png)<br>
-[![license](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) [![language](https://img.shields.io/badge/language-.NET-blueviolet)](https://dotnet.microsoft.com) ![language](https://img.shields.io/badge/language-Python-green) ![purpose](https://img.shields.io/badge/purpose-automation-red)
+[![license](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![language](https://img.shields.io/badge/language-.NET-blueviolet)](https://dotnet.microsoft.com) ![language](https://img.shields.io/badge/language-Python-green) ![purpose](https://img.shields.io/badge/purpose-automation-red)
 <br>
 
 # What is the Multispectral Sorting Tool?
