@@ -1,0 +1,36 @@
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.deps.json
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.runtimeconfig.json
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/ref/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/MetadataExtractor.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Debug/net6.0/XmpCore.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.AssemblyInfoInputs.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.AssemblyInfo.cs
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.csproj.CoreCompileInputs.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.csproj.CopyComplete
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/ref/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.genruntimeconfig.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.csproj.AssemblyReference.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.deps.json
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.runtimeconfig.json
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/ref/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/MetadataExtractor.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/XmpCore.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.csproj.AssemblyReference.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.AssemblyInfoInputs.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.AssemblyInfo.cs
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.csproj.CoreCompileInputs.cache
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.csproj.CopyComplete
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/ref/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/obj/Debug/net6.0/MultispectralSortingTool.genruntimeconfig.cache

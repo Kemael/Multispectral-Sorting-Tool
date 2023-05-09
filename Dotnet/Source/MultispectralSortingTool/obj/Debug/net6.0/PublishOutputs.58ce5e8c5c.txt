@@ -1,0 +1,7 @@
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/MultispectralSortingTool
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/MultispectralSortingTool.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/MultispectralSortingTool.deps.json
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/MultispectralSortingTool.runtimeconfig.json
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/MetadataExtractor.dll
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/bin/Debug/net6.0/publish/XmpCore.dll

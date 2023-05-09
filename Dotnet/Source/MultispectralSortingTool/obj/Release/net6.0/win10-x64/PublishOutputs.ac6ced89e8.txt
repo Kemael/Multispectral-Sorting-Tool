@@ -1,0 +1,2 @@
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Release/net6.0/publish/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool/dotnet/MultispectralSortingTool/MultispectralSortingTool/bin/Release/net6.0/publish/MultispectralSortingTool.exe

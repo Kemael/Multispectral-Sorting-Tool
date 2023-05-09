@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zK2ksrY1h+GrzRM0SjLgMP9B43R78Rey88t1QvYSw5yDjfMcQ333NPuUdlZMRepXs8XlbCNs+u1GDzbQ8u0z4w==",
+  "success": true,
+  "projectFilePath": "/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Source/MultispectralSortingTool/MultispectralSortingTool.csproj",
+  "expectedPackageFiles": [
+    "/Users/kemaelk/.nuget/packages/metadataextractor/2.7.1/metadataextractor.2.7.1.nupkg.sha512",
+    "/Users/kemaelk/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/Users/kemaelk/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/kemaelk/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/Users/kemaelk/.nuget/packages/xmpcore/6.1.10.1/xmpcore.6.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

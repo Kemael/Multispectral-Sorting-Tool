@@ -1,0 +1,2 @@
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Published/Linux (x64)/MultispectralSortingTool.pdb
+/Users/kemaelk/Developer/Multispectral Sorting Tool Repo/Dotnet/Published/Linux (x64)/MultispectralSortingTool
