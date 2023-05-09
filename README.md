@@ -32,19 +32,21 @@ It is first required that all images be transferred in the same directory, prefe
 
 ## .NET (6.0) <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg' alt="dotnetcore" width="30" height="30"/>
 
-Simply download the appropriate compiled executable from the [compiled]() folder or from the following list and place said executable in the same directory where the target images are stored.
+Simply download the appropriate compiled executable from the compiled folder or from the following list and place said executable in the same directory where the target images are stored.
 
-### For Windows (10 & 11)
+### [For Windows (10 & 11)](https://kdrive.infomaniak.com/app/share/355904/69cc941b-0e55-4f96-8948-52767ace27dc)
 
-Download from [here]()
+### For MacOS (Big Sur and above)
 
-### For MacOS (Catalina and above)
+#### [AMD64](https://kdrive.infomaniak.com/app/share/355904/41fbeaa4-0b80-4304-aff0-64339980a34d)
 
-Download from [here]()
+#### [Apple Silicon](https://kdrive.infomaniak.com/app/share/355904/41fbeaa4-0b80-4304-aff0-64339980a34d](https://kdrive.infomaniak.com/app/share/355904/cdcc5f91-4dc5-4808-8cf8-1e49149feb0d)
 
 ### For Ubuntu (LTS & Current)
 
-Download from [here]()
+#### [AMD64](https://kdrive.infomaniak.com/app/share/355904/845c31bd-a206-47ef-a8de-6d42cf7c7a8f)
+
+ #### [ARM](https://kdrive.infomaniak.com/app/share/355904/3b0afc0d-7e57-4dc9-a69e-5d325ed2d5ca)
 
 ## Python 🐍
 
@@ -52,6 +54,6 @@ Download from [here]()
 - Install the Exempi package for your distribution. More information on how to acquire the package can be found on the [Python XMP Toolkit documentation page](https://python-xmp-toolkit.readthedocs.io/en/latest/)
 - Execute [main.py]() in the same directory where the target images are stored.
 
-# License
+# Licence
 
 [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) 
