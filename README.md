@@ -40,7 +40,7 @@ Simply download the appropriate compiled executable from the compiled folder or 
 
 #### [AMD64](https://kdrive.infomaniak.com/app/share/355904/41fbeaa4-0b80-4304-aff0-64339980a34d)
 
-#### [Apple Silicon](https://kdrive.infomaniak.com/app/share/355904/41fbeaa4-0b80-4304-aff0-64339980a34d](https://kdrive.infomaniak.com/app/share/355904/cdcc5f91-4dc5-4808-8cf8-1e49149feb0d)
+#### [Apple Silicon](https://kdrive.infomaniak.com/app/share/355904/cdcc5f91-4dc5-4808-8cf8-1e49149feb0d)
 
 ### For Ubuntu (LTS & Current)
 
