@@ -4,7 +4,7 @@
 
 # What is the Multispectral Sorting Tool?
 
-This tool was built to solve a business process issue pertaining to the workflow of remote sensing and GIS specialists relying on the collection of substantial amounts of aerial imagery data. More specifically, imagery data containing different spectral colour bands to produce high quality orthomosaics or other georeferenced datasets. <strong>With this tool, images of different colour bands are automatically sorted in corresponding directories.</strong>
+This tool was built to solve a business process inefficiency pertaining to the workflow of remote sensing and GIS specialists relying on the collection of substantial amounts of aerial imagery data. More specifically, imagery data containing different spectral colour bands to produce high quality orthomosaics or other georeferenced datasets. <strong>With this tool, images of different colour bands are automatically sorted in corresponding directories.</strong>
 
 The automation of this business process has been tailored and tested on dozens of real-world cases and was most utilised when sorting data collected by the DJI Phantom Multispectral device. However, because the tool relies on the XMP metadata standard and its "camera:band" key-value pairs, this workflow has been effective with other multispectral multi-camera systems.
 
